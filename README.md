@@ -1,5 +1,5 @@
 # 🏙️ IoT ve Akıllı Şehir Uygulaması
-
+youtube link: https://www.youtube.com/watch?v=BTl2FG5WMIE
 **3522 Bulut Bilişim Dersi — Proje 7**
 
 ---
